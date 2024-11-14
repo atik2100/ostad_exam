@@ -61,7 +61,8 @@ class Home extends StatelessWidget {
                 size: 100,
               ),
             ),
-            Text('If you submit code directly copy from chatgpt then mark will 0'),
+            Text(
+                'If you submit code directly copy from chatgpt then mark will 0'),
           ],
         ),
       ),
